@@ -10,8 +10,7 @@ Pillow
 python-dateutil
 pytz
 six
-torch
-torchvision
+tensorflow
 typing-extensions
 Werkzeug
 gunicorn
